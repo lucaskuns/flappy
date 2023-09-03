@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Flappy-Bird-Game-main/images"
+		},
+		{
+			"path": "../../../Downloads/Flappy-Bird-Game-main/sounds effect"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jogo-1"
+	}
+}
